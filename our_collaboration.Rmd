@@ -1,0 +1,12 @@
+---
+title: "git collabortation"
+author: "Cam Audras"
+date: "11/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hey Thomas and Devin. You are absolute ballers.

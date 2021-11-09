@@ -17,6 +17,8 @@ this is so magical y'all
 
 ```{r task 1}
 plot(cars)
+
+hist(cars$speed)
 ```
 
 ```{r task 2}

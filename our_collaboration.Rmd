@@ -17,9 +17,7 @@ hey thanks right back at u
 this is so magical y'all
 
 ```{r task 1}
-plot(cars)
-
-hist(cars$speed)
+mean_value <- mean(cars$dist)
 ```
 
 ```{r task 2}

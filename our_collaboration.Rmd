@@ -14,3 +14,12 @@ Hey Thomas and Devin. You are absolute ballers.
 hey thanks right back at u
 
 this is so magical y'all
+
+```{r task 1}
+plot(cars)
+```
+
+```{r task 2}
+
+```
+
